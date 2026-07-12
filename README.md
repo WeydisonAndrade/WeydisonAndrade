@@ -52,7 +52,7 @@
 ## ⚙️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,excel" />
 </p>
 
 ---
